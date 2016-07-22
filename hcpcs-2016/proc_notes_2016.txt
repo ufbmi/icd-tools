@@ -1,0 +1,556 @@
+                                        PROCESSING NOTES
+ ____________________________________________________________________________________________________________________________________
+
+          0001--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0002--THESE CODES (82585, 82595) PERTAIN TO PERFORMING THE ANALYSIS FOR THE      *
+                ANALYTE AS OPPOSED TO ADMINISTRATION OF THE ANALYTE.                       *
+                                                                                           *
+          0003--THIS PROCEDURE (85029, 85030) IS USUALLY PART OF THE AUTOMATED PROFILES    *
+                FOR CBC AND CONSIDERATION SHOULD BE GIVEN TO NOT PAYING SEPARATELY         *
+                FOR THESE INDICES.                                                         *
+                                                                                           *
+          0004--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0005--THE CERTIFICATION CATEGORY WILL DEPEND ON THE TYPE OF TEST/OR ORGANISM     *
+                IDENTIFIED AND THERE MUST BE AN IDENTIFIER TO INDICATE THE SPECIFIC        *
+                TESTING PERFORMED (87082-87085, 89100, 89130, 89132, 86403).               *
+                                                                                           *
+          0006--THIS IS NOT A LAB TEST AND IS NOT CERTIFIED.                               *
+                                                                                           *
+          0007--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0008--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0009--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0010--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0011--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0012--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0013--THIS DEVICE (E0194) SHOULD NOT BE CONFUSED WITH E0193 POWERED FLOTATION    *
+                THERAPY BED  (LOW AIR LOSS BED). SEE CIM TRANS. NO. 44, JULY 1990.         *
+                                                                                           *
+          0014--CLAIMS SUBMITTED WITH THIS CODE (J9218) WITH OR WITHOUT A MULTIPLIER IN    *
+                IN THE UNITS FIELD SHOULD BE REVIEWED IN TERMS OF THE POLICY PERTAINING    *
+                TO SELF ADMINISTERED DRUGS.                                                *
+                                                                                           *
+          0015--REIMBURSEMENT IS INCLUDED IN THE BASIC ALLOWANCE OF ANOTHER PROCEDURE.     *
+                                                                                           *
+          0016--DEVICE IS SUITABLE FOR VISUALLY IMPAIRED (E0609).                          *
+                                                                                           *
+          0017--SEE INTERMEDIARY MANUAL SECTION 3170.5 FOR COVERAGE INSTRUCTIONS           *
+                PERTAINING TO E1510-E1600, E1620, E1630-E1699, A4650-A4663, A4690,         *
+                A4712, A4730-A4870, A4890-A4927.                                           *
+                                                                                           *
+          0018--CODE J2545 TO BE REPORTED WITH 94642 WHERE APPROPRIATE.                    *
+                                                                                           *
+          0019--SERVICE REPRESENTED BY D4211 CAN BE CODED USING CPT 41820                  *
+                WITH -52 MODIFIER.                                                         *
+                                                                                           *
+          0020--SERVICES REPRESENTED BY D7410 AND D7420 CAN BE CODED FROM CPT-4            *
+                USING CODES 21015 FF AND 40810 FF.                                         *
+                                                                                           *
+          0021--SERVICES REPRESENTED BY D7430-D7461 CAN BE CODED FROM CPT-4 USING          *
+                CODES 21029-21045 AND 41820-41827.                                         *
+                                                                                           *
+          0022--SERVICE REPRESENTED BY D7610 CAN BE CODED USING CPT 21346 WITH             *
+                -52 MODIFIER.                                                              *
+                                                                                           *
+          0023--SERVICE REPRESENTED BY D7620 CAN BE CODED USING CPT 21345 WITH             *
+                -52 MODIFIER.                                                              *
+                                                                                           *
+          0024--SERVICE REPRESENTED BY D7630 CAN BE CODED USING CPT 21461 OR               *
+                CPT 21462 WITH -52 MODIFIER.                                               *
+                                                                                           *
+          0025--SERVICE REPRESENTED BY D7620 CAN BE CODED USING CPT 21455 WITH -52         *
+                  MODIFIER.                                                                *
+                                                                                           *
+          0026--SERVICE REPRESENTED BY D7650 CAN BE CODED USING CPT 21360 WITH             *
+                -52 MODIFIER OR 21365 WITH -52 MODIFIER.                                   *
+                                                                                           *
+          0027--SERVICE REPRESENTED BY D7660 CAN BE CODED USING 21355 WITH -52 MODIFIER.   *
+                                                                                           *
+          0028--SERVICE REPRESENTED BY D7670 CAN BE CODED USING CPT 21422 WITH             *
+                -52 MODIFIER.                                                              *
+                                                                                           *
+          0029--SERVICE REPRESENTED BY D7680 CAN BE CODED USING CPT 21433 WITH             *
+                -52 MODIFIER OR 21435 WITH -52 MODIFIER.                                   *
+                                                                                           *
+          0030--SERVICE REPRESENTED BY D7920 CAN BE REPORTED USING A MORE SPECIFIC         *
+                CPT CODE.                                                                  *
+                                                                                           *
+          0031--SERVICE REPRESENTED BY D7949 CAN BE CODED USING CPT 21151, OR              *
+                CODES 21154-21160.                                                         *
+                                                                                           *
+          0032--SERVICE REPRESENTED BY D7970 CAN BE CODED USING CPT 41828 WITH             *
+                -52 MODIFIER.                                                              *
+                                                                                           *
+          0033--THIS PROCESSING NOTE DELETED 1/1/96.                                       *
+                                                                                           *
+          0034--SERVICE REPRESENTED BY D9220 CAN BE CODED FROM CPT-4 USING 00170-00192.    *
+                                                                                           *
+          0035--SERVICE REPRESENTED BY D9310 CAN BE CODED USING CPT CODES 90600-90643.     *
+                                                                                           *
+          0036--SERVICE REPRESENTED BY D9410 CAN BE CODED USING CPT CODES 90100-90170.     *
+                                                                                           *
+          0037--SERVICE REPRESENTED BY D9420 CAN BE CODED USING CPT CODES 90200-90282.     *
+                                                                                           *
+          0038--SERVICE REPRESENTED BY D9430 CAN BE CODED USING CPT CODES 90000-90080.     *
+                                                                                           *
+          0039--SEE MEDICARE INTERMEDIARY MANUAL, PART 3 CLAIMS PROCESS SECTION 3628.F     *
+                FOR PAYMENT GUIDELINES  (P9610, P9615, G0001).                             *
+                                                                                           *
+          0040--SEE MEDICARE INTERMEDIARY MANUAL 3628.E FOR PAYMENT GUIDELINES             *
+                (P9610, P9615, G0001).                                                     *
+                                                                                           *
+          0041--SEE MEDICARE INTERMEDIARY MANUAL SECTION 3112.4 (Q0081, Q0083,             *
+                Q0084, Q0085).                                                             *
+                                                                                           *
+          0042--SERVICES REPRESENTED BY 92392 SHOULD BE RECODED WITH SPECIFIC SYSTEMS      *
+                FROM A-N V2600-V2615.                                                      *
+                                                                                           *
+          0043--SERVICES REPRESENTED BY 92395 SHOULD BE RECODED WITH SPECIFIC LENS         *
+                TYPE FROM A-N V2100-V2499.                                                 *
+                                                                                           *
+          0044--SERVICES REPRESENTED BY 92396 SHOULD BE RECODED WITH SPECIFIC LENS         *
+                TYPE FROM V2500-V2599.                                                     *
+                                                                                           *
+          0045--SEE INTERMEDIARY MANUAL 3628.1A FOR PAYMENT INSTRUCTIONS. (P3000,P3001     *
+                G0123, G0124, G0141, G0143, G0144, G0145, G0147, G0148). PROGRAM           *
+                MEMORANDUM AB-98-71.60.                                                    *
+                                                                                           *
+          0046--THIS MODIFIER (Q2) IS AUTHORIZED FOR USE BY THE HCFA OFFICE OF RESEARCH    *
+                AND DEMONSTRATIONS ONLY; FOR CLAIMS SUBMITTED TO ORD FOR PAYMENT IN        *
+                CONNECTION WITH DEMONSTRATION PROJECTS.                                    *
+                                                                                           *
+          0047--THIS PROCESSING NOTE DELETED 1/1/97.                                       *
+                                                                                           *
+          0048--SEE MEDICARE INTERMEDIARY MANUAL, SECTION 3112.7D1.E (Q0082).              *
+                                                                                           *
+          0049--SEE MEDICARE INTERMEDIARY MANUAL, SECTION 3148 (CPT 97001, 97002).         *
+                                                                                           *
+          0050--THIS CODE MUST INCLUDE NON-CORING NEEDLES, PRESSURE MONITOR WITH           *
+                STOPCOCK AND TEMPLATES.  CARRIERS SHOULD NOT ALLOW SEPARATE PAYMENT        *
+                FOR THIS CODE AND FOR A4212.                                               *
+                                                                                           *
+          0051--SPECIAL PAYMENT RULES APPLY.  SEE MCM SECTION 15022.F (A4644,              *
+                A4645, A4646).                                                             *
+                                                                                           *
+          0052--PAYMENT BUNDLED INTO PROCEDURE CODE (A4262, A4647, 99141, 99142).          *
+                                                                                           *
+          0053--THIS MODIFIER CODE CROSSWALKS TO A0999 UNLISTED AMBULANCE SERVICE.         *
+                                                                                           *
+          0054--CODE Q0144 ESTABLISHED AS A NATIONAL CODE FOR MEDICAID USE.                *
+                                                                                           *
+          0055--NONCOVERED BY MEDICARE STATUTE, 1862a1a (G0061).                           *
+                                                                                           *
+          0056--PAYMENT FOR THIS SERVICE IS INCLUDED IN THE APPROPRIATE E/M SERVICE        *
+                (99371, 99374, 99377, 99379, 99380).                                       *
+                                                                                           *
+          0057--SEE CPT (YY,ZZ).                                                           *
+                                                                                           *
+          0058--THIS PROCEDURE (A2000) CROSSWALKS TO CPT.                                  *
+                                                                                           *
+          0059--SEE COVERAGE ISSUES MANUAL, SECTION 50-26 (D0120, D0415, D0425).           *
+                                                                                           *
+          0060--SEE MCM 2136 (D2385)  XXXXXXX.                                             *
+                                                                                           *
+          0061--IN 1997, PAYMENT FOR R0076 IS BUNDLED INTO THE PAYMENT FOR THE             *
+                REPORTED EKG SERVICE. IN 1998, PER BALANCED BUDGET ACT OF 1997,            *
+                SEPARATE PAYMENT FOR R0076 IS MANDATED.                                    *
+                                                                                           *
+          0062--CPT 32491 - PAYMENT RESTRICTED TO CERTAIN BENEFICIARIES ENROLLED IN        *
+                THE HCFA/NHLBI STUDY.                                                      *
+                                                                                           *
+          0063--GO100 - SEE PROGRAM MEMO AB-97-9.60 TO INTERMEDIARIES/CARRIERS             *
+                                                                                           *
+          0064--COVERAGE AND PAYMENT BASED ON BALANCED BUDGET ACT OF 1997 (G0101 -         *
+                SEC 4102; G0104, G0105, G0106, G0107, G0120, G0121, G0122 - SEC 4104).     *
+                                                                                           *
+          0065--THESE CODES CAN BE REPORTED ONLY FOR THOSE MEDICARE BENEFICIARIES          *
+                ENROLLED IN THE NATIONAL EMPHYSEMA TREATMENT TRIALS, DEMONSTRATION #30.    *
+                                                                                           *
+          0066--EFFECTIVE 1/1/98, 76076 AND 76078 ARE BENEFITS UNDER THE BALANCED          *
+                BUDGET ACT OF 1997, SECTION 4106.                                          *
+                                                                                           *
+          0067--BENEFIT PER BALANCED BUDGET ACT OF 1997 SECTION 4101 (76092).              *
+                                                                                           *
+          0068--CODES 76070, 76075, 78350, 82523 WERE REINSTATED IN 1998. BENEFIT UNDER    *
+                BALANCED BUDGET ACT OF 1997 SECTION 4106. SEE G0131 AND G0132.             *
+                                                                                           *
+          0069--FOR ASSISTANT SURGEON SERVICES MODIFIERS 80, 81, 82, AK, AL, AM,           *
+                AN, AS, AU, AV, AW, AY, QB, QU SEE MCM SECTION 15044.                      *
+                                                                                           *
+          0070--G0128 MAY BE BILLED BY A COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY  *
+                ONLY.  G0128 ESTABLISHED TO IMPLEMENT BBA (97) SECTION 4541(a)(2).         *
+                                                                                           *
+          0071--G0108, G0109, SEE PROGRAM MEMORANDUM AB-99-30, MAY 1999, PROGRAM           *
+                MEMORANDUM AB-98-36.                                                       *
+                                                                                           *
+          0072--COMPRESSION LEVELS FOR PRODUCTS IDENTIFIED BY THESE CODES (L8100 - L8200)  *
+                HAVE BEEN VALIDATED BY A ASTM/NAHM SANCTIONED INDEPENDENT TEST FACILITY.   *
+                                                                                           *
+          0073--SEE SECTION 4206(a)(b) OF THE BALANCED BUDGET ACT (BBA) OF 1997.           *
+                PROGRAM MEMORANDOM B-99-2, JANUARY 1999.                                   *
+                                                                                           *
+          0074--PER BBA 1997, SECTION 44105, EXPANDED COVERAGE OF SUPPLIES FOR DIABETIC    *
+                BENEFICIARIES.                                                             *
+                                                                                           *
+          0075--PER BBA 1997, SECTION 4541, OUTPATIENT REHABILITATION THERAPY PAYMENT      *
+                LIMITATION APPLIES.                                                        *
+                                                                                           *
+          0076--THE EXISTING LEVEL II CODES ARE J1460 THROUGH J1560.                       *
+                                                                                           *
+          0077--CR#259, AB-97-23 DATED 12-97 IMPLEMENTATION OF 1998 CLINICAL DIAGNOSTIC    *
+                LABORATORY FEE SCHEDULE AND MAPPING FOR 1998 LABORATORY CODING CHANGES.    *
+                                                                                           *
+          0078--PROGRAM MEMORANDUM AB-99-51, JULY 1999.                                    *
+                                                                                           *
+          0079--ESTABLISHED PER BBA `97, SEC 4103.                                         *
+                                                                                           *
+          0080--SEE CR#855, TRANSMITTAL NO. AB-99-22, DATED APRIL 1999.                    *
+                                                                                           *
+          0081--WHEN ACUITY IS MEASURED AS PART OF A GENERAL OPHTHALMOLOGICAL SERVICE      *
+                OR OF AN E/M SERVICE OF THE EYE, IT IS A DIAGNOSTIC EXAMINATION AND NOT    *
+                A SCREENING TEST, AND PAYMENT IS THEREFORE INCLUDED IN THE PAYMENT FOR     *
+                THE E/M SERVICE.                                                           *
+                                                                                           *
+          0082--G0151-G0156 MAY BE BILLED ONLY FOR HOME HEALTH CARE SERVICES PROVIDED      *
+                UNDER A PLAN OF CARE. SEE CR#588.                                          *
+                                                                                           *
+          0083--MODIFIER G8 FOR USE WITH THE FOLLOWING SIX ANESTHESIA CODES; 00100,        *
+                00300, 00400, 00160, 00532 AND 00920.                                      *
+                                                                                           *
+          0084--MODIFIER G7 FOR USE WITH CPT CODES FOR MEDICAL ABORTIONS: 59840, 59841,    *
+                59850, 59851, 59852, 59855, 59856, 59857 AND 59866.                        *
+                                                                                           *
+          0085--CODE Q0186 ESTABLISHED PER THE AUTHORITY PROVIDED UNDER SECTION 4531 OF    *
+                THE BALANCED BUDGET ACT OF 1997.                                           *
+                                                                                           *
+          0086--Q1001, Q1002, Q1003, Q1004, AND Q1005 MUST BE BILLED WITH ONE OF THE       *
+                FOLLOWING PROCEDURE CODES - 66983, 66984, 66985 OR 66986 BY ASC.           *
+                                                                                           *
+          0087--SERVICES REPRESENTED BY G0129 IS DEFINED IN SSA 1861(ff)(2)(B) BBA 1997    *
+                SECTION 4523 (d)(3) AMENDS SSA 1833(a)(2).                                 *
+                                                                                           *
+          0088--"S" CODES ARE UNIQUE TEMPORARY CODES ESTABLISHED BY BCBSA AND HIAA FOR     *
+                PRIVATE PAYOR USE. THEY ARE NOT VALID NOR PAYABLE BY MEDICARE.             *
+                                                                                           *
+          0089--REFER TO AB-99-52 SUSPENDING NON-COVERAGE PER CIM 35-98.                   *
+                                                                                           *
+          0090--THIS SERVICE IS BUNDLED WITH THE VISIT SERVICE.                            *
+                                                                                           *
+          0091--AS OF 10/1/1999, THIS VACCINE HAS NOT RECEIVED FDA APPROVAL.               *
+                                                                                           *
+          0092--SEE NPRN FOR THE MEDICARE PHYSICIANS' FEE SCHEDULE FOR 2000, PUBLISHED     *
+                IN THE FEDERAL REGISTER ON JULY 22, 1999.                                  *
+                                                                                           *
+          0093--"C" CODES ARE UNIQUE TEMPORARY PRICING CODES THAT WERE INITIALLY           *
+                ESTABLISHED BY CMS FOR THE HOSPITAL OUTPATIENT PROSPECTIVE PAYMENT         *
+                SYSTEM (OPPS).  THE "C" CODES ARE USED ON MEDICARE OPPS CLAIMS BUT         *
+                MAY ALSO BE RECOGNIZED ON CLAIMS FROM OTHER PROVIDERS OR BY OTHER          *
+                PAYMENT SYSTEMS.   							   *	
+                                                                                           *
+          0094--CODES G0173 AND G0174 REPLACE CPT 61793 ON THE OPPS PAYMENT  METHODOLOGY.  *
+                CODES MAY NOT BE USED IN MEDICARE PHYSICIAN FEE SCHEDULE SYSTEM.           *
+                                                                                           *
+          0095--AS REQUIRED BY BBRA SECTION 201.                                           *
+                                                                                           *
+          0096--SERVICE REPRESENTED BY G9106 IS REPORTABLE ONLY BY PARTICIPANTS IN THE     *
+                SMOKING CESSATION COUNSELING DEMONSTRATION PROJECT.                        *
+                                                                                           *
+          0097--FOR INSTRUCTIONS RELATED TO THE MEDICARE COORDINATED CARE DEMONSTRATION    *
+                (MCCD) SEF CR1050, 1116 AND 1118.                                          *
+                                                                                           *
+          0098--G0188 IS THE COMPREHENSIVE CODE FOR ANY COMBINATION OF XRAYS OF HIP, KNEE  *
+                AND ANKLE (E.G. 73500, 73510, 73550, 73560, 73590, 73600).                 *
+                                                                                           *
+          0099--SEE NPRM SPING 2000.                                                       *
+                                                                                           *
+          0100--SERVICE REPRESENTED BY G0180 PERTAINS TO SSA 1814(A)(2)(C) AND             *
+                1835(A)(2)(A).                                                             *
+                                                                                           *
+          0101--G0175 REPRESENTS A SERVICE PAYABLE BY THE OPPS. IT MAY NOT BE USED IN THE  *
+                MEDICARE PHYSICIAN FEE SCHEDULE SYSTEM.                                    *
+                                                                                           *
+          0102--SERVICES REPRESENTED BY G0176 AND G0177 MAY BE REPORTED BY HOPD            *
+                 AND PARTIAL HOSPITALIZATION PROGRAMS ONLY (1861FF).                       *
+                                                                                           *
+          0103--G0172 WAS ESTABLISHED TO BE USED FOR PARTIAL HOSPITALIZATION PROGRAM       *
+                REPORTING. EFFECTIVE 1/1/2001, IT HAS BEEN REPLACED BY G0177. (1861(FF)).  *
+                                                                                           *
+          0104--CODE 92525 IS NOT RECOGNIZED BY MEDICARE. REFER TO CODE G0195.             *
+                                                                                           *
+          0105--MODIFIER 60 IS NOT USED FOR MEDICARE PURPOSES.                             *
+                                                                                           *
+          0106--FOR MEDICARE CLAIMS - CODE A9270 ONLY FOR USE ON BILLS SUBMITTED           *
+                BY DMEPOS SUPPLIERS.                                                       *
+                                                                                           *
+          0107--PAYMENT IS FOR HOSPITAL OUTPATIENT ONLY. NOT PAYABLE UNDER THE PHYSICIAN   *
+                FEE SCHEDULE; IN ACCORDANCE WITH FR DATE 8/9/2002 (HOPPS), PAGE 52105.     *
+                                                                                           *
+          0108--NOT PAYABLE AS A SEPARATE PROCEDURE; SERVICE CONSIDERED BUNDLED INTO       *
+                PRIMARY PROCEDURE.                                                         *
+                                                                                           *
+          0109--PAYMENT IS FOR HOSPITAL OUTPATIENT ONLY; NOT PAYABLE UNDER THE PHYSICIAN   *
+                FEE SCHEDULE.                                                              *
+                                                                                           *
+          0110--SEE TRANSMITTAL AB-02-065.  CIM 50-36 WILL GIVE COVERAGE INDICATIONS.      *
+                78459 SHOULD BE USED FOR DETERMINATION OF MYOCARDIAL VIABILITY AS A        *
+                PRIMARY OR INITIAL DIAGNOSTIC STUDY PRIOR TO REVASCULARIZATION.            *
+                                                                                           *
+          0111--IN ACCORDANCE WITH 42 CFR 411.4 (B).                                       *
+                                                                                           *
+          0112--THE BASIS FOR THE PASRR LEVEL I SCREEN IS IN REGULATIONS ONLY AT 42 CFR    *
+                483.128(a).                                                                *
+                                                                                           *
+          0113--THE BASIS FOR THE PASRR LEVEL II SCREEN IS IN STATUTE AT SECTION           *
+                1919(b)(3)(F) AND SECTION 1919(e)(7) OF THE SOCIAL SECURITY ACT.           *
+                                                                                           *
+          0114--FOR MEDICARE PURPOSES, MODIFIERS UN-US WOULD BE REPORTED WITH R0075.       *
+                                                                                           *
+          0115--PHOTODYNAMIC THERAPY (INCLUDES INTRAVENOUS INFUSION) COVERAGE LIMITED      *
+                 TO AGE RELATED MACULAR DEGENERATION (AMD) WITH OCCULT LESIONS WITH NO     *
+                 CLASSIC CHOROIDAL NEOVASCULARIZATION.                                     *
+                                                                                           *
+          0116--FOR MEDICARE, FOR CAH METHOD II BILLING ONLY.                              *
+                                                                                           *
+          0117--SEE G CODES FOR REPORTING.                                                 *
+                                                                                           *
+          0118--INITIAL PREVENTIVE PHYSICAL EXAM CONSISTS OF MEASUREMENT OF HEIGHT,        *
+                  WEIGHT AND BLOOD PRESSURE; MUST INCLUDE AN ELECTROCARDIOGRAM OR          *
+                  THIS CODE IS NOT BILLABLE.                                               *
+                                                                                           *
+          0119--SEE NCDM REFERENCE 110.17.                                                 *
+                                                                                           *
+          0120--SEE BPM (BENEFIT POLICY MANUAL) 7/50.4.3.                                  *
+                                                                                           *
+          0121--SECTION 303(e)(2) OF THE MMA IMPLEMENTS A SUPPLYING FEE FOR                *
+                   IMMUNOSUPPRESSIVE DRUGS, ORAL ANTI-CANCER CHEMOTHERAPEUTIC              *
+                   DRUGS, AND ANTI-EMETIC DRUGS USED AS PART OF AN ANTI-CANCER             *
+                   CHEMOTHERAPEUTIC REGIMEN.                                               *
+                                                                                           *
+          0122--THE CONCEPT OF "COVERAGE UNDER PROTOCOL (CUP)" REFERS TO A COVERAGE        *
+                   CONDITION THAT REQUIRES MEDICARE BENEFICIARIES AND PROVIDERS TO         *
+                   PARTICIPATE IN RESEARCH STUDIES CONCERNING THE ITEM OR SERVICE TO BE    *
+                   COVERED.                                                                *
+                                                                                           *
+          0123--PUBLICATION 100.2, CHAPTER 15, SS 502.                                     *
+                                                                                           *
+          0124--PUBLICATION 100.2, CHAPTER 15, SS 120.                                     *
+                                                                                           *
+          0125--NCD MANUAL 280.1.                                                          *
+                                                                                           *
+          0126--NCD MANUAL 180.2.                                                          *
+                                                                                           *
+          0127--PUBLICATION 100.2, CHAPTER 15, 50.1.                                       *
+                                                                                           *
+          0128--THIS CODE IS AN ADD ON CODE USED IN ADDITION TO E/M CODE ONLY.             *
+                   INFORMATION CAN BE FOUND IN 42 CFR PART 410 PAGE 50941.                 *
+                                                                                           *
+          0129--MMA section 303(e).                                                        *
+                                                                                           *
+          0130--MEDICARE RECOGNIZED CODE 1/1/2006.  PRIOR TO THIS DATE, SERVICES BILLED    *
+                   WITH UNLISTED CODE.                                                     *
+                                                                                           *
+          0131--PUBLICATION 100.2, CHAPTER 16, SECTION 20 - SERVICES NOT REASONABLE AND    *
+                   NECESSARY.                                                              *
+                                                                                           *
+          0132--CARRIER PROCESSING MANUAL, CHAPTER 17.                                	   *
+											   *	
+	  0133--SEE ONLINE MANUAL 100-02.9.						   *
+											   *
+	  0134--SECTION 5112 OF THE DRA.						   *
+											   *
+	  0135--MEDICARE BENEFIT POLICY MANUAL, PUB 100.2, CHAPTER 15, SECTION 110.3	   *
+		(100.02,15,110.3).						           *
+											   *
+	  0136--PAID ON THE OPPS FEE SCHEDULE FOR USE WITH REV CODE 068X.		   *
+											   *
+	  0137--PUBLICATION 100-03, CHAPTER 1, SECTION 280.1 (100.03, 1, 280.1).	   *
+											   *
+	  0138--MEDICARE RECOGNIZED ANOTHER CODE FOR PAYMENT.				   *
+											   *
+	  0139--COVERAGE IS LIMITED TO PERSONS WITH DYSPLASTIC NEVUS SYNDROME ONLY; 	   *
+                NO PAYMENT FOR MONITORING OF HIGH RISK PATIENTS WITH A FAMILY HISTORY.     *
+											   *
+	  0140--CLAIMS PROCESSING MANUAL PUBLICATION 100-04, CHAPTER 13, SECTION 140.	   *
+
+	  0141--SEE NATIONAL COVERAGE DETERMINATION MANUAL FOR TRANSCATHETER STENT         *
+                PLACEMENT.		     						   *
+
+	  0142--SERVICES ARE CONSIDERED INCLUSIVE OF ANOTHER CODE. PAYMENT FOR SERVICE     *
+		IS NOT MADE SEPARATELY.							   *
+
+	  0143--INTERNET ONLY MANUAL 100.4, CHAPTER 4, SECTION 61.3.                       *
+                                                                                           *
+          0144--SERVICES CONSIDERED PART OF THE CORRESPONDING E & M VISIT.                 *
+                                                                                           *
+          0145--MEDICARE CLAIMS PROCESSING MANUAL PUB 100-4, CHAPTER 8, SECTION 60.4.      *
+                                                                                           *
+          0146--NCD MANUAL, SECTION 310.1, 42 CFR 405.205, SUBPART B SECTION 1862(A) OF    *
+                THE ACT.                                                                   *
+                                                                                           *
+          0147--CLAIMS PROCESSING MANUAL PUB 100-04, CHAPTER 17, SECTION 80.9.             *
+                                                                                           *
+          0148--NCD MANUAL 220.6.                                                          *
+                                                                                           *
+          0149--THIS DEVICE WAS ONLY APPROVED BY THE FDA TO OBTAIN, MONITOR AND            *
+                ANALYZE PRESSURES AT THE TIME AN ENDOVASCULAR PROCEDURE IS                 *
+                PERFORMED.  THE FDA HAS NOT APPROVED THE DEVICE FOR FOLLOW-UP              *
+                EVALUATION OF ENDOVASCULAR GRAFT PRESSURES IN THE OUTPATIENT SETTING.      *
+                                                                                           *
+          0150--SEE NEW 2008 CPT CODES.                                                    *
+                                                                                           *
+          0151--SERVICES ARE CONSIDERED UNDER G CODES G0396 AND G0397.                     *
+	  
+	  0152--NCD 100-3, 160.12.                                                         *
+
+	  0153--PURSUANT TO SECTION 101 (B) OF THE MEDICARE IMPROVEMENT FOR PATIENTS       *
+                AND PROVIDERS ACT OF 2008 (MIPPA) EFFECTIVE JANUARY 1, 2009, WE            *
+                EXPANDED COVERAGE FOR THE WELCOME TO MEDICARE BENEFIT; IT IS SUBJECT       *
+                TO CERTAIN ELIGIBILITY AND OTHER LIMITATIONS THAT ALLOW PAYMENT FOR AN     *
+                INITIAL PREVENTIVE PHYSICAL EXAMINATION (IPPE), NOT LATER THAN 12          *
+                MONTHS AFTER THE DATE THE INDIVIDUAL'S FIRST COVERAGE PERIOD BEGINS        *
+                UNDER MEDICARE PART B.                                                     *
+
+	  0154--MEDICARE RECOGNIZES THE FOLLOWING CODES G0412-G0415 FOR THIS SERVICE.      *
+
+	  0155--MEDICARE DOES NOT RECOGNIZE CODES 27215, 27216, 27217 AND 27218 FOR 2009.  *
+
+	  0156--1833(+)(2)(B) OF THE ACT; CY 2008 OPPS/ASC FINAL RULE (DATED NOVEMBER 22,  *
+                2007), P. 66611.                                                           *
+	
+	  0157--MEDICARE BENEFIT POLICY MANUAL, PUB 100.02, CHAPTER 15, SECTION 110.2.     *
+
+	  0158--SEE NEW OR ESTABLISHED VISIT CODES.                                        *
+
+	  0159--THIS DENTAL SERVICE IS NOT PAYABLE OR PROCESSED UNDER THE PHYSICIAN FEE    *
+                SCHEDULE.                                                                  *
+
+	  0160--THIS SERVICE IS ONLY PAYABLE FOR RESTRICTIVE USE ONLY.                     *
+
+	  0161--MEDICARE ALLOWS PAYMENT FOR COLON SCREENING WITH ANOTHER CODE.             *
+
+	  0162--THIS CODE IS NOT PAYABLE UNDER THE MEDICARE PROGRAM.                       * 
+
+	  0163--MEDICARE RECOGNIZES G9141 AND G9142 FOR THIS SERVICE.			   *
+
+	  0164--SEE CHANGE REQUEST 6786.						   *
+
+	  0165--PUB 100.3 250.4 (IOM).							   *
+
+	  0166--CR6953 RELEASED 6/4/2010, NCD 250.5 (PUB 100-03) AND CPM 32.260		   *
+		(PUB 100-04).								   *
+
+	  0167--NOT RECOGNIZED BY MEDICARE - USE CODE G0434.				   *
+
+	  0168--NATIONAL NON-COVERAGE DECISION, SEE CR 5013.				   *
+
+	  0169--SERVICE IS NON-COVERED BY NCD 150.12.					   *
+
+	  0170--SEE NCD 20.29.								   *
+
+	  0171--MEDICARE DOES NOT RECOGNIZE CODE, SEE CODES Q2035 - Q2039.		   *
+
+	  0172--SERVICE IS NON-COVERED BY NCD 40.7.					   *
+
+	  0173--SEE CR 7040 AND PUB. 100-3, SECTION 220.2.				   *
+
+	  0174--FDA NON-APPROVED MEDICATION, NOT A PAYABLE SERVICE.			   *
+
+	  0175--NCD Pub 100-3, 110.22.							   *
+
+	  0176--Pub 100-03 NCD Manual, Section 240.2.2.					   *
+
+	  0177--SERVICE IS NON-COVERED BY STATUTE 1861(A)1(A).				   *
+	
+	  0178--SEE NCDM 20.9.								   *
+
+	  0179--CY 2013 OPPS/ASC FINAL RULE.						   *
+
+	  0180--2013 PFS; PUB 100-04, 5-10, 12.027I.					   *                                       
+
+	  0181--THIS IS A BUNDLED SERVICE.						   *
+
+	  0182--THIS CODE IS TO BE USED FOR THE TAVR/TAVI PROCEDURE; PERFORMED WITH	   
+		CO-SURGEONS.							 	   *
+
+	  0183--NCD 220.6 POSITRON EMISSION TOMOGRAPHY (PET) SCANS, (EFFECTIVE 4/6/2009)
+                (REV. 120; ISSUED 5/6/2010; EFFECTIVE DATE: 4/3/2009;       
+                IMPLEMENTATION DATE: 10/30/2009).					   *
+
+	  0184--MEDICARE RECOGNIZES CODE G0455 FOR THIS SERVICE.			   *
+                                                      
+	  0185--THIS SERVICE IS LIMITED TO PAYMENT IN AN ASC.				   *
+
+	  0186--SEE CPT BOOK PARENTHETICAL LANGUAGE FOR ADDITIONAL INFO.		   *
+
+	  0187--PUB. 100-4, CHAPTER 17.							   *
+
+	  0188--PUB. 100-04 CH. 20 S. 30.3.						   * 
+
+	  0189--IOM 100-3, CH 4, NCD 220.6.20.						   *
+	
+	  0190--MEDICARE RECOGNIZES ANOTHER CODE FOR THIS SERVICE, SEE CODES G0461
+		AND G0462.								   *
+
+	  0191--IOM 100-3, CHAPTER 4, 220.6.20.						   *
+
+	  0192--PL 112-242.								   *
+
+	  0193--SEE 150.13 MEDICARE NATIONAL COVERAGE DETERMINATIONS MANUAL CHAPTER 1,
+		PART 2; ALSO CR 8757, TRANSMITTAL 167 DATED MAY 16, 2014.		   *
+
+	  0194--PUB. 100-4, CH. 15.							   *
+
+	  0195--PUB. 100-4, CH.4, SEC 240.						   *
+
+	  0196--PUB. 100-4, CH.21, SEC 10.1.3.						   *
+
+	  0197--NCD 240.2.								   *
+
+	  0198--NCD 160.19.								   *
+
+	  0199--SEE CR 8871, SERVICE IS APPROVED PER NCD COVERAGE; RESTRICTIVE		   
+		GUIDELINES.								   *
+
+	  0200--TECHNICAL TREATMENT AND DELIVERY OF HBOT, PHYSICIAN SUPERVISION	
+		CODE 99183. 								   *
+
+	  0201--MEDICARE RECOGNIZES ANOTHER CODE FOR PAYMENT PURPOSES ON THE 	
+		CLINICAL LAB FEE SCHEDULE. 						   *
+
+	  0202--THE PATIENT PROTECTION AND AFFORDABLE CARE ACT MADE IT MANDATORY	   
+	 	FOR ALL HEALTHCARE INSURANCE PLANS TO COVER SOME PREVENTIVE SERVICES
+		AND IMMUNIZATIONS AS PART OF ALL BENEFIT PLANS; THIS MODIFIER DOES
+		NOT APPLY TO CMS SCREENING SERVICES AS THEY ARE STATUTORILY ADMINISTERED.  *
+
+	  0203--CODE CREATED TO IDENTIFY RECENTLY DEVELOPED "FOURTH GENERATION" HIV 
+		SCREENING TESTS; COVERAGE EFFECTIVE BY NCD.				   *
+
+	  0204--NCD 110.18.								   *
+
+	  0205--PUB 100-4, CH 17, SEC 20.1.2.						   *
+
+	  0206--THIS SERVICE IS PART OF A DEMONSTRATION PROJECT.			   *
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                               
+
+
+
+
